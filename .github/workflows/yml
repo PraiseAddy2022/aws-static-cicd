@@ -1,4 +1,4 @@
-name: Deploy static file to s3
+name: Static file to s3
 
 on:
   push:
